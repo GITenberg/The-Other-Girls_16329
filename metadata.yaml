@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3859
     wikipedia: http://en.wikipedia.org/wiki/Adeline_Dutton_Train_Whitney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16329#The-Other-Girls
 gutenberg_issued: '2005-07-19'
 gutenberg_type: Text
 identifiers:
